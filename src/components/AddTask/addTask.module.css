@@ -1,3 +1,9 @@
 .addTask {
   /* Sample */
 }
+.todoForm{
+  margin: 20px;
+  height : 150px;
+  background-color: rgb(82,186,166);
+  padding: 20px;
+}
